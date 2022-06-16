@@ -1,11 +1,11 @@
 {
-  "Version": "1.1.2",
+  "Version": "1.1.3",
   "ReleaseNotes": "",
-  "UrlUpdate": "https://bitbin.it/ejJ04jHx/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/vipbeto/conecta4g/main/atualiza.txt/",
   "Sms": "",
   "EmailFeedback": "beto198325@gmail.com",
   "UrlContato": "",
-  "UrlTermos": "https://pastebin.com/raw/GzuPQgYx",
+  "UrlTermos": "https://raw.githubusercontent.com/vipbeto/conecta4g/main/Termos%20de%20uso.txt",
   "CheckUser": "true",
   "Udp": [
     {
