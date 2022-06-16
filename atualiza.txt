@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.5",
+  "Version": "1.1.6",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/vipbeto/conecta4g/main/atualiza.txt/",
   "Sms": "",
