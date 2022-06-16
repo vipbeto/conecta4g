@@ -37,7 +37,7 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR BR 02",
+      "Name": "SERVIDOR R 02",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "proxysp2.qnhumb.xyz",
